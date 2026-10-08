@@ -1,0 +1,4 @@
+﻿  zadan3.c
+D:\бИД-262 ВЗД\Project3\zadan3.c(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\бИД-262 ВЗД\Project3\zadan3.c(5,2): warning C4013: puts: нет определения; предполагается "extern" с возвратом типа "int"
+  Project3.vcxproj -> D:\бИД-262 ВЗД\lab0\x64\Debug\Project3.exe

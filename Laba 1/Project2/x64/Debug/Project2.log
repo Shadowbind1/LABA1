@@ -1,0 +1,4 @@
+﻿  zadan2.c
+D:\бИД-262 ВЗД\Project2\zadan2.c(5,2): warning C4013: puts: нет определения; предполагается "extern" с возвратом типа "int"
+D:\бИД-262 ВЗД\Project2\zadan2.c(12,2): warning C4098: main: функция типа "void", возвращающая значение
+  Project2.vcxproj -> D:\бИД-262 ВЗД\lab0\x64\Debug\Project2.exe

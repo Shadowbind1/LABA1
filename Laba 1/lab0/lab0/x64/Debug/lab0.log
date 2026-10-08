@@ -1,0 +1,5 @@
+﻿  Lab0.c
+D:\бИД-262 ВЗД\lab0\Lab0.c(5,2): warning C4013: puts: нет определения; предполагается "extern" с возвратом типа "int"
+D:\бИД-262 ВЗД\lab0\Lab0.c(7,2): warning C4013: getchar: нет определения; предполагается "extern" с возвратом типа "int"
+D:\бИД-262 ВЗД\lab0\Lab0.c(9,2): warning C4098: main: функция типа "void", возвращающая значение
+  lab0.vcxproj -> D:\бИД-262 ВЗД\lab0\x64\Debug\lab0.exe

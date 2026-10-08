@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0431\u0418\u0414-262 \u0412\u0417\u0414\\lab0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6BDCF3-8BF6-4DF5-B0ED-8117BF9046AD}|..\\Project4\\Project4.vcxproj|D:\\\u0431\u0418\u0414-262 \u0412\u0417\u0414\\Project4\\Zadan4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8CB25E-D3BC-4D62-A776-D0269E678AFC}|..\\Project2\\Project2.vcxproj|D:\\\u0431\u0418\u0414-262 \u0412\u0417\u0414\\Project2\\zadan2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F70A9B22-6DCA-4652-8C81-6F5458F09F40}|lab0.vcxproj|D:\\\u0431\u0418\u0414-262 \u0412\u0417\u0414\\lab0\\Lab0.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F70A9B22-6DCA-4652-8C81-6F5458F09F40}|lab0.vcxproj|solutionrelative:Lab0.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B37B07-9B92-4FD9-BE81-0EA42F6F8530}|..\\Project3\\Project3.vcxproj|D:\\\u0431\u0418\u0414-262 \u0412\u0417\u0414\\Project3\\zadan3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "zadan2.c",
+              "DocumentMoniker": "D:\\\u0431\u0418\u0414-262 \u0412\u0417\u0414\\Project2\\zadan2.c",
+              "RelativeDocumentMoniker": "..\\Project2\\zadan2.c",
+              "ToolTip": "D:\\\u0431\u0418\u0414-262 \u0412\u0417\u0414\\Project2\\zadan2.c",
+              "RelativeToolTip": "..\\Project2\\zadan2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-09T06:23:14.984Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab0.c",
+              "DocumentMoniker": "D:\\\u0431\u0418\u0414-262 \u0412\u0417\u0414\\lab0\\Lab0.c",
+              "RelativeDocumentMoniker": "Lab0.c",
+              "ToolTip": "D:\\\u0431\u0418\u0414-262 \u0412\u0417\u0414\\lab0\\Lab0.c",
+              "RelativeToolTip": "Lab0.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-09T05:58:08.522Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "zadan3.c",
+              "DocumentMoniker": "D:\\\u0431\u0418\u0414-262 \u0412\u0417\u0414\\Project3\\zadan3.c",
+              "RelativeDocumentMoniker": "..\\Project3\\zadan3.c",
+              "ToolTip": "D:\\\u0431\u0418\u0414-262 \u0412\u0417\u0414\\Project3\\zadan3.c",
+              "RelativeToolTip": "..\\Project3\\zadan3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-09T06:47:50.683Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadan4.c",
+              "DocumentMoniker": "D:\\\u0431\u0418\u0414-262 \u0412\u0417\u0414\\Project4\\Zadan4.c",
+              "RelativeDocumentMoniker": "..\\Project4\\Zadan4.c",
+              "ToolTip": "D:\\\u0431\u0418\u0414-262 \u0412\u0417\u0414\\Project4\\Zadan4.c*",
+              "RelativeToolTip": "..\\Project4\\Zadan4.c*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-09T07:12:25.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
