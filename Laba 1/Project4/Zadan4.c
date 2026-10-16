@@ -5,6 +5,7 @@ void main()
 {
 	name();
 	date();
+	dz();
 }
 
 #include <locale.h>
@@ -27,4 +28,16 @@ void date()
 	puts("  _          _    _     _   _ ");
 	puts("  _|  |_|   | |   _|   | | |_|");
 	puts(" |_     | . |_|  |_  . |_|  _|");
+}
+
+
+void dz() {
+	puts("          |\\ ");
+	puts("          | \\ ");
+	puts("          |  \\ ");
+	puts("          |   \\ ");
+	puts("     ___|____\\___ ");
+	puts("     \\              / ");
+	puts("      \\____________/");
+	return 0;
 }
